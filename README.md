@@ -2,8 +2,7 @@
 Ini untuk crack password file zip yang di kasi password 
 
 #coding bay Randiansyah
-# fesbuk: Rendi Saputra
-# yutub : Rendi Noober
-# ige: @rendi_noober
-# termux user 
+# facebook: Randi Kun
+# YouTube : Randi Noober
+# Instagram: @randinoober_
 
